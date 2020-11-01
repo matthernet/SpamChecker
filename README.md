@@ -1,4 +1,4 @@
-# Spam Checker
+# SpamChecker
 [![GitHub release](https://img.shields.io/github/v/release/matthernet/spamchecker)](https://github.com/matthernet/spamchecker/releases/)
 
 ## Check ip status with differents rbl list:
