@@ -1,6 +1,6 @@
 # SpamChecker
 
-Check ip/domain blacklist status with differents rbl servers
+Check ip/domain blacklist status with different rbl servers
 
 [![GitHub release](https://img.shields.io/github/v/release/matthernet/spamchecker)](https://github.com/matthernet/spamchecker/releases/)
 
