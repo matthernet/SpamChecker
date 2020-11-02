@@ -1,4 +1,7 @@
-# SpamChecker - Check ip/domain status with differents rbl servers
+# SpamChecker
+
+Check ip/domain status with differents rbl servers
+
 [![GitHub release](https://img.shields.io/github/v/release/matthernet/spamchecker)](https://github.com/matthernet/spamchecker/releases/)
 
 ### Installation:
