@@ -35,7 +35,7 @@ fi
 }
 
 if [ -z $1 ]; then
-	echo "Please specify ip or domain" && exit
+	echo "Please specify IP or domain" && exit
 else
 	echo $1 | grep '[[:alpha:]]' > /dev/null
 	if [ $? -eq 0 ]; then
