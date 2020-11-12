@@ -3,7 +3,7 @@
 Check ip/domain blacklist status with different rbl servers
 
 [![GitHub release](https://img.shields.io/github/v/release/matthernet/spamchecker)](https://github.com/matthernet/spamchecker/releases/)
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: GPL v3](https://img.shields.io/github/license/matthernet/SpamChecker)](https://img.shields.io/github/license/matthernet/SpamChecker)
 
 ### Installation:
     git clone https://github.com/matthernet/SpamChecker.git
