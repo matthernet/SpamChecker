@@ -16,8 +16,6 @@ Check ip/domain blacklist status with different rbl servers
     $ spamchecker 1.1.1.1
 
 ### Output example:
-    $ spamchecker target.tld
-    Checking RBLs for target.tld
     target.tld listed in bl.nszones.com
     target.tld listed in dnsbl.justspam.org
     target.tld listed in spam.dnsbl.sorbs.net
